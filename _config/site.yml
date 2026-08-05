@@ -6,8 +6,8 @@ releases:
     date: 28-Sep-2022
     stable: false 
     eol: false
-  - version: 4.2.16.Final
-    date: 06-Jul-2026
+  - version: 4.2.17.Final
+    date: 04-Aug-2026
     stable: true
     eol: false
   - version: 4.1.136.Final
